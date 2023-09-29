@@ -1,0 +1,30 @@
+.App {
+  text-align: center;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.card
+{
+  
+  width: 30%;
+  height :5rem;
+  align-items: center;
+  
+}
+.Container
+{
+ background-color: rgb(185, 40, 163);
+}
+
+
+
+.button:hover {
+  background-color: #af4c8c; /* Green */
+  color: rgb(214, 25, 148);
+}
+
